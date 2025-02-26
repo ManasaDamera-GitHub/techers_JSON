@@ -1,7 +1,7 @@
 {
   "teachers": [
     {
-      "image": "https://thumbs.dreamstime.com/b/intelligent-young-bearded-teacher-glasses-listening-to-his-students-answers-carefully-young-bearded-teacher-listening-to-his-174193328.jpg",
+      "image": "https://img.freepik.com/premium-photo/elderly-male-lecturer-glasses-reads-book-repeating-material-preach-subject-students_177786-6102.jpg",
       "name": "John Doe",
       "social_icons": [
         { "name": "twitter", "url": "https://twitter.com/johndoe" },
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "image": "https://thumbs.dreamstime.com/b/portrait-young-male-teacher-background-school-blackboard-teacher-s-day-knowledge-day-back-to-school-study-159722312.jpg",
+      "image": "https://img.freepik.com/premium-photo/generative-ai-photo-confident-clever-school-teacher-lecturer-conducting-lesson-classroom-background_525549-10545.jpg",
       "name": "Jane Smith",
       "social_icons": [
         { "name": "twitter", "url": "https://twitter.com/janesmith" },
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "image": "https://thumbs.dreamstime.com/z/female-university-professor-looking-camera-holding-journal-writing-classroom-155809447.jpg",
+      "image": "https://img.freepik.com/premium-photo/vibrant-young-woman-teacher-standing-front-group-students-generate-by-ai_902671-1656.jpg",
       "name": "Alice Johnson",
       "social_icons": [
         { "name": "twitter", "url": "https://twitter.com/alicejohnson" },
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "image": "https://images.pexels.com/photos/5905483/pexels-photo-5905483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "image": "https://img.freepik.com/premium-photo/inspiring-portrait-curly-woman-lecturer-university-sharing-knowledge-empowering-generation-generative-ai_287527-1797.jpg",
       "name": "Grace Lee",
       "social_icons": [
         { "name": "twitter", "url": "https://twitter.com/gracielee" },
